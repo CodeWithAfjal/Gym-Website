@@ -9,3 +9,7 @@ This is a fully responsive and interactive website built using **HTML**, **CSS**
 - ✅ Scroll and hover effects
 - ✅ Clean, modern UI
 - ✅ Lightweight and fast-loading
+
+
+##Live Preview- gymbrosbuddy.netlify.app
+
